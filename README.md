@@ -4,6 +4,14 @@
 
 Generate **A**d**j**ective, **A**d**j**ective, **Ani**mal strings
 
+> This library is largely a TypeScript port of [a-type/adjective-adjective-animal](https://github.com/a-type/adjective-adjective-animal).
+
+## Todo
+
+- [ ] Custom word dictionaries
+- [ ] Formatting options (snake-case, kebab-case, etc.)
+- [ ] Custom number of adjectives and animals
+
 ## Install
 
 ```bash
