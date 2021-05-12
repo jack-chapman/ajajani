@@ -1,7 +1,7 @@
 {
-  "name": "my-ts-lib",
+  "name": "ajajani",
   "version": "0.0.0",
-  "description": "My awesome typescript library",
+  "description": "Random Adjective, Adjective, Animal strings",
   "publishConfig": {
     "access": "public"
   },
