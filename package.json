@@ -2,6 +2,10 @@
   "name": "ajajani",
   "version": "0.0.0",
   "description": "Random Adjective, Adjective, Animal strings",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jack-chapman/ajajani"
+  },
   "publishConfig": {
     "access": "public"
   },
